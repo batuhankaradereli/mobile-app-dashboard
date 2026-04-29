@@ -1,0 +1,7 @@
+event_type,total_events,avg_session_sec
+session_start,4,305
+purchase,4,681
+ad_watch,4,174
+level_complete,3,447
+app_open,3,92
+tutorial_done,2,390
